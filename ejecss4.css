@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(134, 170, 218);
+   }
+   h1 {
+    color: white;
+    text-align: center;
+   }
+   p {
+   font-family:Arial, Helvetica, sans-serif;
+    font-size: 50px
+    *{
+        text-align: center;
+    }
+    
+     p.tono-rosa {
+        color: rgb(186, 102, 224);
+        font-size: 50px
+     }
+    
+     .texto-grande {
+        font-size: 50px
