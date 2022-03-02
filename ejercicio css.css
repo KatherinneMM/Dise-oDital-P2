@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(134, 170, 218);
+   }
+   h1 {
+    color: white;
+    text-align: center;
+   }
+   p {
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px
+   }
+
+   #acentuacionRoja {
+   color: red;
+}
+.resaltado-Azul {
+    color: rgb(4, 63, 129);
+    font-size: 50px
+ }
+ .resaltado-rojo {
+    color: rgb(77, 0, 128);
+    font-size: 50px
+ }
+
+ .resaltado-morado {
+    color: rgb(98, 0, 128);
+    font-size: 50px
+ }
+
+*{
+    text-align: center;
+}
+
+ p.tono-rosa {
+    color: rgb(186, 102, 224);
+    font-size: 50px
+ }
+
+ .texto-grande {
+    font-size: 50px
+}
+.texto-centro {
+    text-align: center;
+}
