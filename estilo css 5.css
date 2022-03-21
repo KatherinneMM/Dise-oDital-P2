@@ -39,3 +39,14 @@ h2{
     padding: 30px;
     width: 900px;
 }
+.Texto2{
+color: rgb(89,163,212);
+text-align: center;
+direction: ltr; /*left to right, right to left*/
+text-transform: uppercase; /*otras opciones: lowercase, capitalize*/
+text-indent: 50px;
+letter-spacing:10px;
+line-height: 1.8;
+word-spacing: 5px;
+/*white-space: norwrap; /*descomentar esta linea para ver la diferencia*/
+text-shadow: 2px 2px rgb(36,53,151); /*2px de sombra horizontal y vertical*/ 	
